@@ -1,1 +1,1 @@
-I'm learning Git!
+I'm learning Git! Git is fun, im really getting the hang of it
